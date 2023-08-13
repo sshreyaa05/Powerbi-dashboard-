@@ -4,5 +4,7 @@ This dataset stimulates sales and customers records for a global retail company.
 ## 2. ![image](https://github.com/sshreyaa05/Powerbi-dashboard-/assets/132264752/561a5041-3d6f-4734-a23a-1115192e7086)
 ## 3. ![image](https://github.com/sshreyaa05/Powerbi-dashboard-/assets/132264752/8028f8f2-34b4-4a48-8c58-8c3fa35603bb)
 ## 4. ![image](https://github.com/sshreyaa05/Powerbi-dashboard-/assets/132264752/baaa3145-d77e-4a62-84fc-eeef7a43b86d)
-## From the above visualisation we gwt to know about the sales and their profit across different country aling with their key features.
+## From the above visualisation we got to know about the sales across different country and their profits with respect to month and year, along with their key features influencing the sales.
+
+
 
